@@ -1,0 +1,157 @@
+.App {
+  text-align: center;
+  
+}
+
+.displayComp{
+  display: none;
+}
+
+.header{
+  font-size: 45px;
+  font-weight: 800;
+  font-family: NeueMachina-Ultrabold, serif;
+}
+.rider{
+  font-weight: 700;
+  font-size: 20px;
+  font-family: NeueMachina-Regular,  serif;
+}
+.setDate{
+  position: relative;
+  top: 2rem;
+  left: 9.5rem;
+  width: 150px;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  background-color: #696967e3;
+  font-family: serif;
+  font-size: 18px;
+  color: #fff;
+}
+::-webkit-calendar-picker-indicator{
+   cursor: pointer;
+   background-color: white;
+}
+.reset{
+  position: relative;
+  top: 10rem;
+  right: 200px;
+  background-color: #696967e3;
+  border: 1px solid white;
+  border-radius: 1rem;
+  box-sizing: border-box;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter,sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 0;
+  padding: .5rem 1rem;
+  text-align: center;
+  text-transform: none;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+.setbutton{
+  position: relative;
+  top: 10rem;
+ left: 100px;
+    background-color: #696967e3;
+    border: 1px solid white;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Inter,sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    margin: 0;
+    padding: .5rem 1rem;
+    text-align: center;
+    text-transform: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+  
+}
+.countdown{
+  margin: 20% 0 10% 0; 
+  font-weight: 700;
+  font-size: 30px;
+  font-family: serif;
+}
+footer{
+  background-color: darkgray;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+/* top */
+.custom-shape-divider-top-1645376639 {
+  position: absolute;
+  top: 10rem;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1645376639 svg {
+  position: relative;
+  display: block;
+  width: calc(102% + 1.3px);
+  height: 137px;
+}
+
+.custom-shape-divider-top-1645376639 .shape-fill {
+  fill: #696967e3;
+}
+/* bottom css */
+.custom-shape-divider-top-1645376749 {
+  position: absolute;
+  top: 18rem;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(360deg);
+}
+
+.custom-shape-divider-top-1645376749 svg {
+  position: relative;
+  display: block;
+  width: calc(102% + 1.3px);
+  height: 137px;
+}
+
+.custom-shape-divider-top-1645376749 .shape-fill {
+  fill: #696967e3;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
