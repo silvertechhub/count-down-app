@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/count-down-app/static/css/main.94a2bf78.chunk.css",
+    "main.js": "/count-down-app/static/js/main.6d538993.chunk.js",
+    "main.js.map": "/count-down-app/static/js/main.6d538993.chunk.js.map",
+    "runtime-main.js": "/count-down-app/static/js/runtime-main.7d9a29a6.js",
+    "runtime-main.js.map": "/count-down-app/static/js/runtime-main.7d9a29a6.js.map",
+    "static/js/2.bceaaa9b.chunk.js": "/count-down-app/static/js/2.bceaaa9b.chunk.js",
+    "static/js/2.bceaaa9b.chunk.js.map": "/count-down-app/static/js/2.bceaaa9b.chunk.js.map",
+    "static/js/3.68cae5e7.chunk.js": "/count-down-app/static/js/3.68cae5e7.chunk.js",
+    "static/js/3.68cae5e7.chunk.js.map": "/count-down-app/static/js/3.68cae5e7.chunk.js.map",
+    "index.html": "/count-down-app/index.html",
+    "static/css/main.94a2bf78.chunk.css.map": "/count-down-app/static/css/main.94a2bf78.chunk.css.map",
+    "static/js/2.bceaaa9b.chunk.js.LICENSE.txt": "/count-down-app/static/js/2.bceaaa9b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/count-down-app/static/media/NeueMachina-Ultrabold.07d4eef9.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d9a29a6.js",
+    "static/js/2.bceaaa9b.chunk.js",
+    "static/css/main.94a2bf78.chunk.css",
+    "static/js/main.6d538993.chunk.js"
+  ]
+}
